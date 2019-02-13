@@ -3,7 +3,8 @@ def speak_to_grandma
     puts "I love you too pumpkin!".upcase
   elsif "Hi Nana, how are you?" || "Hi!"
     puts "huh?! Speak Up, Sonny".upcase
-  else "No, not since 1983!".upcase
+  else ""
+    puts "No, not since 1983!".upcase
 end 
 
 
